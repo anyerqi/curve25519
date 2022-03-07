@@ -1,5 +1,5 @@
 {
-  "name": "curve25519-n",
+  "name": "@anyerqi/curve25519-n",
   "version": "0.0.2",
   "main": "index.js",
   "types": "index.d.ts",
@@ -40,5 +40,6 @@
     "environmentVariables": {
       "TS_NODE_PROJECT": "./__test__/tsconfig.json"
     }
-  }
+  },
+  "repository": "https://github.com/anyerqi/curve25519.git"
 }

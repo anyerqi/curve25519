@@ -1,5 +1,5 @@
 {
-  "name": "curve25519-n-darwin-x64",
+  "name": "@anyerqi/curve25519-n-darwin-x64",
   "version": "0.0.2",
   "os": [
     "darwin"
@@ -14,5 +14,6 @@
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/anyerqi/curve25519.git"
 }
