@@ -1,6 +1,6 @@
 {
   "name": "@anyerqi/curve25519-n-linux-x64-gnu",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "os": [
     "linux"
   ],
